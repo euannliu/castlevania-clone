@@ -1,0 +1,35 @@
+ASSIGNED
+IGC Flag
+-Discuss with Pat and Saroja for more details*
+
+
+IN PROGRESS
+Metacritic Data Integration 
+-Incorporate confidence ratio check if there is no exact match and check by release date as well.
++Matching algorithm incorporates unicode manipulation, phrase stylization, keyword replacement, and a confidence ratio check
++Extracted data using Metacritic API and devised a matching algorithm to join metadata with Sony production database
+=FTP server: ftp.zen.cnet.com
+=UID/PWD: sony_metacritic/t1aMEFlk
+
+
+HALTED
+Video Content Dashboard
++Met with shareholder bi-weekly to commnunicate demands, suggestions, and requirements for a report
+that will be used widely
++Constant iteration on report to build something that is user-friendly and intuitive
++Optimized report by reducing data pull on reports for faster load times
+
+
+DONE
+Game Name Update Simulator
++SQL pull of data
++Wrote python script to create a dynamic excel sheet filled with colors and create a metrics sheet to identify conflicting data 
++Manually worked within Production level to update release dates of games
+
+35k Title Name Update
+-Analysis provided
++Ran script to join data and worked in SQL to join more data 
+
+Consumables Flag
++Work with shareholders on the usage of this data
++With a revenue focus, a logic based system to locate consumables is valid
